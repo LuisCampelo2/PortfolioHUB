@@ -1,8 +1,27 @@
-Plano de Implantação do Portfólio HUB
+Etapas do Projeto:
+Planejamento:
 
-Etapas:
-1. Usar o github desktop para criar um repositório para armazenar o PortfólioHUB
-2. Usar google GEMINI pra me instruir e auxiliar a criar meu portfolio
-3. Armazenar meus projetos no Google Drive.
+Criar um plano detalhado no Google Docs.
+Configurar o Google GEMINI como guia para a implantação.
+Configuração Inicial:
+
+Configurar um ambiente dedicado no Google Workspace.
+Integrar funcionalidades como Google Drive e Google Calendar ao PortfolioHUB.
+Gestão de Usuários e Segurança:
+
+Implementar controle de usuários no Google Workspace.
+Adotar políticas de segurança com suporte do Google GEMINI.
+Integração com Git e GitHub:
+
+Criar um repositório GitHub integrado ao PortfolioHUB.
+Documentar o processo e práticas colaborativas.
+Finalização e Testes:
+
+Completar as integrações restantes.
+Preparar o PortfolioHUB para o uso real.
+Revisão e Apresentação:
+
+Criar uma apresentação em vídeo destacando as etapas e desafios superados.
+Discutir as soluções implementadas.
 
 

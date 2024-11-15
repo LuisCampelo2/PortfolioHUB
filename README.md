@@ -15,7 +15,7 @@ Bem-vindo ao **PortfolioHUB**, uma plataforma desenvolvida para gerenciar e exib
 - **JavaScript**: Funcionalidades de front-end interativo.
 - **Google APIs**: Integração com Google Drive e Calendar.
 - **Google GEMINI**: Implementação de inteligência artificial para insights.
-- **Docker**: Contêineres para simplificar o desenvolvimento e a implantação.
+
 
 ## Estrutura do Projeto
 
@@ -23,6 +23,7 @@ Bem-vindo ao **PortfolioHUB**, uma plataforma desenvolvida para gerenciar e exib
 PortfolioHUB/
 ├── src/
 │   ├── Projetos_academicos
+|       |---PaginaWeb(pagina onde me apresento)
 │   ├──projetos_pessoais
 │
 ├── docs/
