@@ -3,10 +3,12 @@ Planejamento:
 
 Criar um plano detalhado no Google Docs.
 Configurar o Google GEMINI como guia para a implantação.
+
 Configuração Inicial:
 
 Configurar um ambiente dedicado no Google Workspace.
-Integrar funcionalidades como Google Drive e Google Calendar ao PortfolioHUB.
+Subir arquivos do PortfolioHUB no Google Drive.
+
 Gestão de Usuários e Segurança:
 
 Implementar controle de usuários no Google Workspace.
