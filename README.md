@@ -11,9 +11,8 @@ Bem-vindo ao **PortfolioHUB**, uma plataforma desenvolvida para gerenciar e exib
 
 ## Tecnologias Utilizadas
 
-- **Python** e **Django**: Para desenvolvimento da aplicação web.
-- **JavaScript**: Funcionalidades de front-end interativo.
-- **Google APIs**: Integração com Google Drive e Calendar.
+- **HTML e CSS**: Criaçao de uma pagina web simples
+- **Google Workspace**: Integração com Google Drive e Calendar.
 - **Google GEMINI**: Implementação de inteligência artificial para insights.
 
 
