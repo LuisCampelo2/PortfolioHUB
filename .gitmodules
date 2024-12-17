@@ -1,0 +1,3 @@
+[submodule "Projetos/WebScraping"]
+	path = Projetos/WebScraping
+	url = https://github.com/LuisCampelo2/WebScraping
