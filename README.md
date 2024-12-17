@@ -6,20 +6,12 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
 
 ## 📁 Projetos
 
-### 💈 [Sistema de Barbearia](./Projetos/SistemaBarbearia)
-- **Descrição**: Sistema web para gerenciar agendamentos de clientes em uma barbearia.
-- **Tecnologias**: Python, Django, HTML, CSS, JavaScript.
-- **Destaques**: Formulários interativos, agendamento dinâmico e banco de dados relacional.
 
-### 🕸️ [Web Scraper](./Projetos/WebScraper)
+
+### 🕸️ [Web Scraper](./Projetos/WebScraping)
 - **Descrição**: Ferramenta para extrair dados automaticamente de sites.
-- **Tecnologias**: Python, BeautifulSoup.
+- **Tecnologias**: Python, BeautifulSoup e Selenium
 - **Destaques**: Extração de dados eficiente com tratamento de exceções.
-
-### 📅 [Django Agenda](./Projetos/DjangoAgenda)
-- **Descrição**: Aplicação web de gerenciamento de compromissos e tarefas.
-- **Tecnologias**: Python, Django, Bootstrap.
-- **Destaques**: CRUD completo e design responsivo.
 
 ### 🌐 [Página Web Simples](./Projetos/PaginaSimples)
 - **Descrição**: Um exemplo básico de página HTML e CSS para prática de desenvolvimento web.
