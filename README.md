@@ -8,12 +8,12 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
 
 
 
-### 🕸️ [Web Scraper](./Projetos/WebScraping)
+### 🕸️ [Web Scraper](Projetos/WebScraping)
 - **Descrição**: Ferramenta para extrair dados automaticamente de sites.
 - **Tecnologias**: Python, BeautifulSoup e Selenium
 - **Destaques**: Extração de dados eficiente com tratamento de exceções.
 
-### 🌐 [Página Web Simples](./Projetos/PaginaSimples)
+### 🌐 [Página Web Simples](Projetos/PaginaWeb)
 - **Descrição**: Um exemplo básico de página HTML e CSS para prática de desenvolvimento web.
 - **Tecnologias**: HTML, CSS.
 - **Destaques**: Layout minimalista e responsivo.
