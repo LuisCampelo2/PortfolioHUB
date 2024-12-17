@@ -119,8 +119,7 @@ Este curso me capacitou a criar soluções robustas em Python e a aplicar boas p
 
 ---
 
-## 📸 Preview
-![Preview do portfólio](./Assets/Imagens/preview_portfolio.png)
+
 
 ---
 
