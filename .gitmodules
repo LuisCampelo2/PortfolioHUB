@@ -7,3 +7,6 @@
 [submodule "Projetos/PaginaWeb"]
 	path = Projetos/PaginaWeb
 	url = https://github.com/LuisCampelo2/PaginaWebApresentao
+[submodule "Projetos/GestorDeTarefas"]
+	path = Projetos/GestorDeTarefas
+	url = https://github.com/LuisCampelo2/GestorDeTarefas
