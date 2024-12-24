@@ -10,3 +10,6 @@
 [submodule "Projetos/GestorDeTarefas"]
 	path = Projetos/GestorDeTarefas
 	url = https://github.com/LuisCampelo2/GestorDeTarefas
+[submodule "Projetos/Projetos/GestorDeTarefas"]
+	path = Projetos/Projetos/GestorDeTarefas
+	url = https://github.com/LuisCampelo2/GestorDeTarefas
