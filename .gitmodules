@@ -13,3 +13,6 @@
 [submodule "Projetos/Projetos/GestorDeTarefas"]
 	path = Projetos/Projetos/GestorDeTarefas
 	url = https://github.com/LuisCampelo2/GestorDeTarefas
+[submodule "Projetos/GestorDeTarefasDjango"]
+	path = Projetos/GestorDeTarefasDjango
+	url = https://github.com/LuisCampelo2/GestorDeTarefas
