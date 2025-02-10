@@ -22,3 +22,9 @@
 [submodule "Projetos/ecommerce"]
 	path = Projetos/ecommerce
 	url = https://github.com/LuisCampelo2/MinhaLoja
+[submodule "ecommerceDjango"]
+	path = ecommerceDjango
+	url = https://github.com/LuisCampelo2/MinhaLoja
+[submodule "Projetos/ecommerceDjango"]
+	path = Projetos/ecommerceDjango
+	url = https://github.com/LuisCampelo2/MinhaLoja
