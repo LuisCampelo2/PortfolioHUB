@@ -13,10 +13,6 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
 - **Tecnologias**: Python, BeautifulSoup e Selenium
 - **Destaques**: Extração de dados eficiente com tratamento de exceções.
 
-### 🌐 [Página Web Simples](https://luiscampelo2.github.io/PaginaWebApresentao/)
-- **Descrição**: Um exemplo básico de página HTML e CSS para prática de desenvolvimento web.
-- **Tecnologias**: HTML, CSS.
-- **Destaques**: Layout minimalista e responsivo.
 
 ### 🌐 [Gestor de Tarefas](https://gestordetarefas.onrender.com)
 
