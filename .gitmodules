@@ -16,3 +16,9 @@
 [submodule "Projetos/GestorDeTarefasDjango"]
 	path = Projetos/GestorDeTarefasDjango
 	url = https://github.com/LuisCampelo2/GestorDeTarefas
+[submodule "ecommerce"]
+	path = ecommerce
+	url = https://github.com/LuisCampelo2/MinhaLoja
+[submodule "Projetos/ecommerce"]
+	path = Projetos/ecommerce
+	url = https://github.com/LuisCampelo2/MinhaLoja
