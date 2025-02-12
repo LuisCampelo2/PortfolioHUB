@@ -1,6 +1,6 @@
 # Portfólio de Luis Filipe 🌟
 
-Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, minhas certificações, habilidades e informações sobre minha trajetória como desenvolvedor. Sou apaixonado por Python, Django e desenvolvimento web, e estou sempre em busca de novos desafios e aprendizado.
+Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, meus certificados, habilidades e informações sobre minha trajetória como desenvolvedor. Sou apaixonado por Python, Django e desenvolvimento web, e estou sempre em busca de novos desafios e aprendizado.
 
 ---
 
