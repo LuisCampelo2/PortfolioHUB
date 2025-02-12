@@ -31,7 +31,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
 
 ---
 
-## 🎓 Certificações
+## 🎓 Certificados
 
 ### 1. [Python 3: Do Básico ao Avançado - Com Projetos Reais](Certificados/Certificado_Python_Udemy.pdf)
 - **Instituição**: Udemy  
