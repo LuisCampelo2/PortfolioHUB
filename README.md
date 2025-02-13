@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
 
 
 
-### 🕸️ [Web Scraper](Projetos/WebScraping)
+### 🕸️ [Web Scraper](https://github.com/LuisCampelo2/WebScraping/tree/8695ebaf5e698a5ff77244e786cc55efc790c402)
 - **Descrição**: Ferramenta para extrair dados automaticamente de sites.
 - **Tecnologias**: Python, BeautifulSoup e Selenium
 - **Destaques**: Extração de dados eficiente com tratamento de exceções.
@@ -28,7 +28,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
   - Banco de dados integrado para gerenciar os dados de usuários.  
   - Projeto hospedado no Render para demonstração pública.  
 
-### 🌐 [MinhaLoja - E-commerce em Django](Projetos/ecommerceDjango)
+### 🌐 [MinhaLoja - E-commerce em Django](https://github.com/LuisCampelo2/MinhaLoja/tree/f4b66f5dfafb6625475939c8627bf0188590d213)
 
 **Descrição:**  
 MinhaLoja é um sistema web de e-commerce desenvolvido com foco em gerenciamento de produtos, carrinho de compras e checkout. O projeto também inclui integração com APIs de pagamento para processar transações de forma eficiente.
