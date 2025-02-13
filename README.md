@@ -28,6 +28,25 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos que desenvolvi, 
   - Banco de dados integrado para gerenciar os dados de usuários.  
   - Projeto hospedado no Render para demonstração pública.  
 
+# 🌐 [MinhaLoja - E-commerce em Django](Projetos/ecommerceDjango)
+
+**Descrição:**  
+MinhaLoja é um sistema web de e-commerce desenvolvido com foco em gerenciamento de produtos, carrinho de compras e checkout. O projeto também inclui integração com APIs de pagamento para processar transações de forma eficiente.
+
+**Tecnologias:**  
+- Django (Python)  
+- HTML  
+- CSS  
+- JavaScript  
+- PostgreSQL  
+
+**Destaques:**  
+- Catálogo de produtos com visualização detalhada.  
+- Funcionalidade de carrinho de compras para adicionar e remover itens.  
+- Processamento de pagamentos integrado com APIs como Mercado Pago e Stripe.  
+- Sistema de autenticação para usuários com login e registro.  
+- Design responsivo, garantindo uma experiência consistente em dispositivos móveis e desktops.  
+- Projeto hospedado no Render para acesso público e demonstração.
 
 ---
 
