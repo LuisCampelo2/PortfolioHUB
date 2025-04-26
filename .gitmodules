@@ -28,3 +28,6 @@
 [submodule "Projetos/ecommerceDjango"]
 	path = Projetos/ecommerceDjango
 	url = https://github.com/LuisCampelo2/MinhaLoja
+[submodule "Projetos/LandingPage"]
+	path = Projetos/LandingPage
+	url = https://github.com/LuisCampelo2/LandingPage
